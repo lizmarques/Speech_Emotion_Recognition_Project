@@ -101,7 +101,7 @@ Observando a matriz de confusão, podemos chegar as seguintes conclusões:
 - 1 frase que deveria ter sido classificada na classe Neutra, mas foi classificada na classe Tristeza
 - 4 frases que deveriam ter sido classificadas na classe Raiva, mas foram classificadas na classe Felicidade
 - 1 frase que deveria ter sido classificada na classe Raiva, mas foi classificada na classe Neutra
-- 2 frases que deveriam ter sido classificadas na classe Neutra, mas foram classificadas na classe Trsiteza
+- 2 frases que deveriam ter sido classificadas na classe Tristeza, mas foram classificadas na classe Neutra
   
  ## Classification Report
   
