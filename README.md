@@ -110,8 +110,10 @@ Observando a matriz de confusão, podemos chegar as seguintes conclusões:
  <p align="center"> <img width="600px" heigth="300px" src="imagens/classification_report.png">
  
 Visualizando a taxa de acerto para cada uma das classes, podemos constar que:
-- Um recall de 98% para classe normal, indica que o modelo consegue classificar corretamente 98% dos casos de sons normais e, quando isso acontece, ele tem 98% de precisão (precision)
-- Um recall de 95% para classe abnormal, indica que o modelo consegue classificar corretamente 95% dos casos de sons anômalos e, quando isso ocorre, ele tem 94% de precisão
+- Um recall de 94% para classe Felicidade, indica que o modelo consegue classificar corretamente 94% das frases da classe Felicidade e, quando isso acontece, ele tem 76% de precisão (precision)
+- Um recall de 88% para classe Neutro, indica que o modelo consegue classificar corretamente 88% das frases da classe Neutro e, quando isso acontece, ele tem 83% de precisão
+- Um recall de 77% para classe Raiva, indica que o modelo consegue classificar corretamente 77% das frases da classe Raiva e, quando isso acontece, ele tem 94% de precisão
+- Um recall de 90% para classe Tristeza, indica que o modelo consegue classificar corretamente 90% das frases da classe Tristeza e, quando isso acontece, ele tem 95% de precisão
   
  ## Próximos Passos
 - Criação de uma API que utiliza o modelo
