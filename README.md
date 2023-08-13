@@ -71,7 +71,7 @@ Agora que já compreendemos o que é um espectrograma e o que faz a escala mel, 
  
  ## Modelo: Rede Neural Convolucional (CNN)
 
-Os espectrogramas extraídos dos arquivos de áudio são como imagens 2D, então podemos usar técnicas de classificação de imagens neles, especificamente Redes Neurais Convolucionais (CNN)!
+Os espectrogramas extraídos dos arquivos de áudio são como imagens 2D, então, podemos usar técnicas de classificação de imagens neles, ou seja, Redes Neurais Convolucionais (CNN).
 
 A arquitetura desta rede neural foi definida com base em alguns testes realizados para obter o resultado esperado. A estrutura pode ser ajustada livremente e comparada aos resultados desta estrutura.
 
