@@ -10,9 +10,8 @@
 
 A base de dados emoUERJ foi desenvolvida na Universidade Estadual do Rio de Janeiro (UERJ) com o principal objetivo de desenvolver modelos de Speech Emotion Recognition (SER; Reconhecimento de emoções na voz) em português, uma vez que existem poucas bases de dados nesse idioma. Na emoUERJ é possível encontrar:
 
-377 arquivos de áudio (tamanho total: 105.1 MB)
-
-O banco de dados contém 8 atores, igualmente divididos entre os gêneros
+- 377 arquivos de áudio (tamanho total: 105.1 MB)
+- O banco de dados contém 8 atores, igualmente divididos entre os gêneros
 
 Foram disponibilizadas 10 frases e eles tiveram a liberdade de escolher as frases para gravação dos áudios
 
@@ -22,6 +21,7 @@ Emoções alvo e total de áudios:
 - Raiva: 94
 - Tristeza: 100
 - Neutro: 92
+  
 Abaixo seguem as 10 frases utilizadas neste dataset:
 
 - Não importa quem está certo.
@@ -40,7 +40,7 @@ Cada arquivo de banco de dados corresponde a uma frase gravada por um ator expre
 - Posições 2 e 3: id do ator (de 01 a 04)
 - Posição 4: emoção (h: felicidade, a: raiva, s: tristeza, n: neutro)
 - Posições 5 e 6: identificação da gravação
-- 
+
 Por exemplo, o arquivo 'w04a11' foi o décimo primeiro áudio gravado pela atriz 04 interpretando a emoção da raiva.
 
 Fonte: https://zenodo.org/record/5427549#.ZDI6jnbMLrf
