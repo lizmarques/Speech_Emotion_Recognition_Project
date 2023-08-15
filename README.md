@@ -116,5 +116,5 @@ Visualizando a taxa de acerto para cada uma das classes, podemos constar que:
 - Um recall de 90% para classe Tristeza indica que o modelo consegue classificar corretamente 90% das frases da classe Tristeza e, quando isso acontece, ele tem 95% de precisão
   
  ## Próximos Passos
-- Criação de uma API que utiliza o modelo
+- Criação de uma API utilizando Flask
  
