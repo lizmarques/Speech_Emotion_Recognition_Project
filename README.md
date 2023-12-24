@@ -73,7 +73,7 @@ Now that we understand what a spectrogram is and what the mel scale does, we can
  
  ## Model: Convolutional Neural Network (CNN)
 
-The spectrograms extracted from the audio files resemble 2D images, allowing us to employ image classification techniques on them—specifically, Convolutional Neural Networks (CNN).
+The spectrograms extracted from the audio files resemble 2D images, allowing us to employ image classification techniques on them specifically, Convolutional Neural Networks (CNN).
 
 The architecture of this neural network was defined based on several tests conducted to achieve the desired outcome. The structure can be freely adjusted and compared to the results of this particular configuration.
 
